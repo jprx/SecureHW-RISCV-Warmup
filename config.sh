@@ -1,0 +1,3 @@
+DEBUG_HOST=localhost
+DEBUG_PORT=
+TARGET_LEVEL=build/level3
